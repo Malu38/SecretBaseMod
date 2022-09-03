@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "secret_base:blocks/vanishing_block",
+    "particle": "secret_base:blocks/vanishing_block"
+  }
+}
